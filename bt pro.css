@@ -10,7 +10,7 @@
     flex-direction: column;
     /* text-align: center; */
 }
-@media(max-width:390px){
+@media(max-width:540px){
     .inbox1{
         text-align: center;
     }
@@ -928,4 +928,5 @@ color: gray;
     justify-content: center;
     flex-direction: column;
     text-align: justify;
+
 }
