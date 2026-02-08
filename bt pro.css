@@ -12,7 +12,7 @@
 }
 @media(max-width:540px){
     .inbox1{
-        text-align: end;
+        text-align: center;
     }
 }
 .inbox111{
@@ -930,6 +930,7 @@ color: gray;
     text-align: justify;
 
 }
+
 
 
 
