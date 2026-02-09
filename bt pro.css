@@ -29,6 +29,7 @@
 .zola{
     /* margin-left: 100px;
     margin-top: 10px; */
+    text-align: center;
 }
 @media (max-width:390px) {
    /* .zola{
@@ -930,6 +931,7 @@ color: gray;
     text-align: justify;
 
 }
+
 
 
 
