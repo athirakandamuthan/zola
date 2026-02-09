@@ -32,9 +32,9 @@
     text-align: center;
 }
 @media (max-width:390px) {
-   /* .zola{
+   .zola{
         margin-left: 130px;
-    } */
+    }
     
 }
 .btn{
@@ -931,6 +931,7 @@ color: gray;
     text-align: justify;
 
 }
+
 
 
 
