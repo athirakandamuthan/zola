@@ -33,7 +33,7 @@
 }
 @media (max-width:390px) {
    .zola{
-        margin-left: 130px;
+        margin-left: 110px;
     }
     
 }
@@ -931,6 +931,7 @@ color: gray;
     text-align: justify;
 
 }
+
 
 
 
